@@ -1,0 +1,19 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "ai.datavoyage/mcp",
+  "title": "DataVoyage — China Market Mobile Game Ad Creative Intelligence",
+  "description": "China-market mobile game ad creative intelligence: search overseas ad creatives across channels, image/video similarity, competitor comparison, App Store / Google Play chart tools. Built for the 橙果数航 platform.",
+  "repository": {
+    "url": "https://github.com/creativescope/datavoyage-mcp",
+    "source": "github"
+  },
+  "websiteUrl": "https://www.datavoyage.cn",
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcpapi.datavoyage.cn/mcp",
+      "headers": []
+    }
+  ]
+}
