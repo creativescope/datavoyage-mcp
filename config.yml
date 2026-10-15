@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: DataVoyage 官网
+    url: https://www.datavoyage.cn
+    about: 主页、定价、登录入口
+  - name: 海外站 CreativeScope
+    url: https://creativescope.ai
+    about: 海外 MCP 仓库与文档
